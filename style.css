@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body{
+	overflow: hidden;
+	background: linear-gradient(to bottom, white,  dodgerblue);
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	font-size: 70px;
+	font-family: 'Share Tech Mono', monospace;
+}
+
+.container:hover{
+	cursor: pointer;
+}
